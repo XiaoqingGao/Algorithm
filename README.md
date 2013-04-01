@@ -1,0 +1,4 @@
+Algorithm
+=========
+
+Exercise of algorithm
